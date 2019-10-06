@@ -1,0 +1,2 @@
+index,host,source,sourcetype,"_raw"
+"main","webapp.local","webapp_security.log",webapp_security,"2019-01-01 00:00:00.000,1.1.1.1,Username,Event-Type"
